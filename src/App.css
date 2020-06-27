@@ -1,0 +1,20 @@
+.container > button {
+    background-color: rgb(78, 78, 78);
+    height: 40px;
+    width: 40px;
+    color: white;
+    border-radius:10px ;
+}
+
+button:hover {
+    cursor: pointer;  ;
+}
+
+.container > span {
+    margin: 0 10px;
+    padding: 10px 0;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    font-size: 25px;
+    line-height: 100px;
+    text-decoration-line: 30px;
+}
